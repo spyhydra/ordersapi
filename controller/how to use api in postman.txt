@@ -1,0 +1,28 @@
+
+.............To Use this api on your local device ........
+
+go to file and open terminal in VsCode and enter npm install
+install mongodb in your local system 
+then run npm start in terminal 
+install postman api software
+
+
+....... required path in postman........
+
+add user post> http://localhost:8080/add-user
+
+Login user get > http://localhost:8080/login-user
+
+for getting a jwt token enter a phone and password > http://localhost:8080/create-session 
+
+add order post (auth enable) > http://localhost:8080/add-order
+
+get order get (auth enable)> http://localhost:8080/get-order
+
+
+
+......... site link 
+
+
+
+
